@@ -13,6 +13,8 @@ Certificates files are created using the https://github.com/schors/gost-ca-parse
 In fact, this is the task of the [Minsvyaz](http://minsvyaz.ru). It must do this, but it can't. I don't know why.
 I don't have to do this. But I can.
 
+![The motherland hears](the_motherland_hears.png)
+
 Features
 --------
 * Directory with separate files and one long file
