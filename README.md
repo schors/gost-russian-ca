@@ -8,6 +8,8 @@ What is it?
 There are CA and intermediate certificates used in the official document circulation in Russia. 
 This set of certificates can be used with classic OpenSSL and LibreSSL libraries.
 
+Certificates files are created using the https://github.com/schors/gost-ca-parse parser.
+
 In fact, this is the task of the [Minsvyaz](http://minsvyaz.ru). It must do this, but it can't. I don't know why.
 I don't have to do this. But I can.
 
@@ -15,7 +17,7 @@ Features
 --------
 * Directory with separate files and one long file
 * Releases by official versions
-* [Usher II](https://usher2.club) Servers Power
+* Powered by [Usher II](https://usher2.club)
 
 
 Examples
