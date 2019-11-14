@@ -6,7 +6,7 @@ What is it?
 -----------
 
 There are CA and intermediate certificates used in the official document circulation in Russia. 
-This set of certificates can be used with classic OpenSSL and LibreSSL libraries.
+This set of certificates can be used with classic OpenSSL, LibreSSL ang GnuTLS libraries.
 
 Certificates files are created using the https://github.com/schors/gost-ca-parse parser.
 
@@ -44,6 +44,15 @@ openssl smime -verify -CAfile gost-russian-ca.git/certs/ca-certificates.pem \
 ```
 
 Of course, you may run `c_rehash` utility in the _certs_ directory and then use `-CAdir` option.
+
+### via GnuTLS
+
+This requires GnuTLS >= 3.6.4
+```console
+git clone https://github.com/schors/gost-russian-ca.git ./
+certtool --p7-verify --load-ca-certificate gost-russian-ca.git/certs/ca-certificates.pem \
+        --infile dump.xml.sig --inder --load-data dump.xml
+```
 
 Notes
 -----
