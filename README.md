@@ -65,7 +65,7 @@ LibreSSL tests on Alpine Linux above version 3.5.
 Links
 -----
 
-* [Gosuslugi e-trust](http://e-trust.gosuslugi.ru/CA) Portal of Russian Federal Authority of using electronic signature
+* [Gosuslugi e-trust](http://e-trust.gosuslugi.ru/) Portal of Russian Federal Authority of using electronic signature
 
 For nuts
 --------
