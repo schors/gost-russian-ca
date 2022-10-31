@@ -70,15 +70,16 @@ Links
 For nuts
 --------
 
-* YooMoney https://sobe.ru/na/m2i2s077M0g2/
+* YooMoney: https://sobe.ru/na/m2i2s077M0g2/
+* PayPal: https://www.paypal.me/schorsx
+
 * BTC: 18YFeAV12ktBxv9hy4wSiSCUXXAh5VR7gE
 * LTC: LVXP51M8MrzaEQi6eBEGWpTSwckybqHU5s
 * ETH: 0xba53cebd99157bf412a6bb91165e7dff29abd0a2
-* ZEC: t1McmUhzdsauoXpiu2yCjNpnLKGGH225aAW
-* DGE: D8cZwBsVp1hW4mjTCgspEKG5TpPZycTJBn
 * BCH: 1FiXmPZ6eecHVaZbgdadAuzQLU9kqdSzVN
 * ETC: 0xeb990a29d4f870b5fdbe331db90d9849ce3dae77
-* WAX: 0xba53cebd99157bf412a6bb91165e7dff29abd0a2
+* ZEC: t1McmUhzdsauoXpiu2yCjNpnLKGGH225aAW
+* TON: EQBrl8BNLWNVvmSCZDNexzoGQLIojnp4xNDT6Wf4AFX4S_57
 
 ---
 [![UNLICENSE](noc.png)](UNLICENSE)
